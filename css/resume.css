@@ -72,7 +72,7 @@ html{
 
 @media (min-width: 992px) {
   body {
-    padding-top: 17rem;
+    padding-top: 15rem;
     padding-left: 17rem; } }
 
 h1,
@@ -91,7 +91,7 @@ h1 {
   line-height: 5.5rem; }
 
 h2 {
-  font-size: 10rem; }
+  font-size: 9rem; }
 
 .browse-tip{
   display:none;
