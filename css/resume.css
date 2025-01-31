@@ -51,6 +51,11 @@ body {
   text-align: center;
 }
 
+.mindich-subtitle {
+  color: #06ABEB;       /* match your existing color */
+  margin-top: 4rem;     /* adjust this value as needed */
+}
+
 
 body {
   font-family: Arial, Helvetica, sans-serif;
